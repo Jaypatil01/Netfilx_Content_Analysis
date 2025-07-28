@@ -12,7 +12,7 @@ This project explores Netflix’s content catalog using Power BI. It analyzes co
 ### 📷 Screenshots
 
 #### 1. Cover Page  
-![Cover](screenshots/01_cover_page.png)
+![Cover](ScreenShots/01_Coverpage.png)
 
 #### 2. Overview Dashboard  
 ![Overview](screenshots/02_overview_dashboard.png)
