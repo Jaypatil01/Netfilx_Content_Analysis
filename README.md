@@ -21,4 +21,4 @@ This project explores Netflix’s content catalog using Power BI. It analyzes co
 
 ---
 
-**Feel free to fork or use this for your own learning or portfolio.**
+**Feel free to use this for your own learning or portfolio.**
