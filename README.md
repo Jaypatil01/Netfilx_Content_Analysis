@@ -15,16 +15,16 @@ This project explores Netflix’s content catalog using Power BI. It analyzes co
 ![Cover](ScreenShots/01_Coverpage.png)
 
 #### 2. Overview Dashboard  
-![Overview](ScreenShots/02_overview_dashboard.png)
+![Overview](ScreenShots/02_Overview Dashboard.png)
 
 #### 3. Movie Content Deep Dive  
-![Movie](ScreenShots/03_movie_deep_dive.png)
+![Movie](ScreenShots/03_Movies Overview.png)
 
 #### 4. TV Show Content Deep Dive  
-![TV](ScreenShots/04_tv_show_analysis.png)
+![TV](ScreenShots/04_TV Shows Overview.png)
 
 #### 5. Geographic Analysis  
-![Geo](ScreenShots/05_geographic_analysis.png)
+![Geo](ScreenShots/05_Geographic Analysis.png)
 
 ## Tools Used
 - Power BI
