@@ -8,7 +8,7 @@ This project explores Netflix’s content catalog using Power BI. It analyzes co
 - Top contributing countries
 - Genre popularity and rating analysis
 - TV shows and seasons distribution
-- 
+ 
 ### 📷 Screenshots
 
 #### 1. Cover Page  
